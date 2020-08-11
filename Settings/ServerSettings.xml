@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Entry>
+    <Key xsi:type="xsd:string">UnityApplicationPath</Key>
+    <Value xsi:type="xsd:string">C:/Program Files/Unity/Editor/Unity.exe</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">AssetBuilderProjectPath</Key>
+    <Value xsi:type="xsd:string">D:/Develop/WebwinkelAssetBuilder/WebwinkelAssetBuilder</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">key_value_id</Key>
+    <Value xsi:type="xsd:string">160c088b</Value>
+  </Entry>  
+  <Entry>
+    <Key xsi:type="xsd:string">AssetBundlesInetPubFolder</Key>
+    <Value xsi:type="xsd:string">C:/inetpub/wwwroot/AssetBundles</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">WWWRootFolder</Key>
+    <Value xsi:type="xsd:string">C:/inetpub/wwwroot</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">heroku</Key>
+    <Value xsi:type="xsd:string">C:/Program Files/heroku/bin/heroku.cmd</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">HerokuAppName</Key>
+    <Value xsi:type="xsd:string">crafty-potions-database-dev</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">UrlWebserver</Key>
+    <Value xsi:type="xsd:string">http://www.craftypotions.com</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">UrlServer</Key>
+    <Value xsi:type="xsd:string">http://www.craftypotions.com:80</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">UpdateDatabaseSleepCount</Key>
+    <Value xsi:type="xsd:int">30</Value>
+  </Entry>
+  <Entry>
+    <Key xsi:type="xsd:string">ResourceServerIP</Key>
+    <Value xsi:type="xsd:string">http://www.craftypotions.com</Value>
+  </Entry>
+</ArrayOfEntry>
